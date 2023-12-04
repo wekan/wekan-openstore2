@@ -2,7 +2,7 @@
     "name": "wekan.wekanteam",
     "description": "Open-Source kanban",
     "architecture": "@CLICK_ARCH@",
-    "title": "WeKan",
+    "title": "Wekan",
     "hooks": {
         "wekan": {
             "apparmor": "wekan.apparmor",
