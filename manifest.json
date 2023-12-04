@@ -2,7 +2,7 @@
     "name": "wekan.wekanteam",
     "description": "Open-Source kanban",
     "architecture": "@CLICK_ARCH@",
-    "title": "Wekan",
+    "title": "WeKan",
     "hooks": {
         "wekan": {
             "apparmor": "wekan.apparmor",
@@ -10,6 +10,6 @@
         }
     },
     "version": "1.0.2",
-    "maintainer": "Wekan Team <support@wekan.team>",
-    "framework" : "ubuntu-sdk-20.04"
+    "maintainer": "Lauri Ojansivu <support@wekan.team>",
+    "framework" : "@CLICK_FRAMEWORK@"
 }
