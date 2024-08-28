@@ -13,6 +13,6 @@
 
 ## License
 
-Copyright (C) 2023  Lauri Ojansivu
+Copyright (C) 2023-2024  Lauri Ojansivu
 
 Licensed under the MIT license.
